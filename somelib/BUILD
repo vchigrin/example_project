@@ -6,6 +6,7 @@ cc_library(
     hdrs = [
         "test.h",
         "unused.h",
+        "rare.h",
     ],
     visibility = ["//visibility:public"],
 )
